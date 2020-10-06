@@ -5,9 +5,9 @@ Skin Care es una aplicación basada en un modelo de reconocimiento de patrones q
 
 ## Datos de entrenamiento
 
-    ### Características de las imágenes
+### Características de las imágenes
 
-    ### Política de aumentación de la información
+### Política de aumentación de la información
 
 ## Descriptores
 
@@ -15,7 +15,7 @@ Skin Care es una aplicación basada en un modelo de reconocimiento de patrones q
 
 ## Modelo implementado
 
-    ### Respaldo de las técnicas seleccionadas
+### Respaldo de las técnicas seleccionadas
 
 ## Arquitectura del Proyecto
 
@@ -23,8 +23,8 @@ Skin Care es una aplicación basada en un modelo de reconocimiento de patrones q
 ## Eficacía del Algoritmo
 
 ## Resultados generados
-    ## Aplicación 
+## Aplicación 
 
-    ## Articulo del proyecto
+## Articulo del proyecto
 
 ## Nuestro Equipo.
